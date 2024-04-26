@@ -20,7 +20,7 @@ class T2: UIViewController, UITableViewDataSource, UITableViewDelegate {
             break
         
         case 1:
-            subCategoryTitles = kanBasıncı
+            subCategoryTitles = kanBasinci
             break
         
         case 2:
@@ -28,11 +28,11 @@ class T2: UIViewController, UITableViewDataSource, UITableViewDelegate {
             break
         
         case 3:
-            subCategoryTitles = sütsüz
+            subCategoryTitles = sutsuz
             break
        
         case 4:
-            subCategoryTitles = şekersiz
+            subCategoryTitles = sekersiz
             break
         
         case 5:
@@ -44,7 +44,7 @@ class T2: UIViewController, UITableViewDataSource, UITableViewDelegate {
             break
         
         case 7:
-            subCategoryTitles = diğerleri
+            subCategoryTitles = digerleri
             break
         
         default:
