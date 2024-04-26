@@ -3,7 +3,7 @@ import Foundation
 
 var STATUS = 1
 
-var planCategories = ["Kilo Verme", "Kan Basıncı", "Gluttensiz", "Sütsüz", "Şeker", "Temiz Beslenme", "Vejetaryen", "Diğer"]
+var planCategories = ["Kilo Verme", "Kan Basıncı", "Gluttensiz", "Sütsüz", "Şeker", "Temiz Beslenme", "Vejetaryen", "Diğerleri"]
 
 var kiloVerme = ["Aylık Kilo Verme", "Haftalık Kilo Verme"]
 var kanBasinci = ["Kan Basıncı", "1200 Kalori BP", "1500 Kalori BP", "2000 Kalori", "7 Günlük Kan Basıncı"]
@@ -22,7 +22,7 @@ func getJSONFileName(categoryIndex: Int, subCategoryIndex: Int) -> String {
         break
     
     case 1:
-        jsonFile = kanBasıncı[subCategoryIndex]
+        jsonFile = kanBasinci[subCategoryIndex]
         break
     
     case 2:
@@ -30,11 +30,11 @@ func getJSONFileName(categoryIndex: Int, subCategoryIndex: Int) -> String {
         break
     
     case 3:
-        jsonFile = sütsüz[subCategoryIndex]
+        jsonFile = sutsuz[subCategoryIndex]
         break
    
     case 4:
-        jsonFile = şekersiz[subCategoryIndex]
+        jsonFile = sekersiz[subCategoryIndex]
         break
     
     case 5:
@@ -46,7 +46,7 @@ func getJSONFileName(categoryIndex: Int, subCategoryIndex: Int) -> String {
         break
     
     case 7:
-        jsonFile = diğerleri[subCategoryIndex]
+        jsonFile = digerleri[subCategoryIndex]
         break
     
     default:
