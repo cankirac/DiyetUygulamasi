@@ -10,7 +10,7 @@ class T1: UIViewController, UITableViewDataSource, UITableViewDelegate {
     
     var containerYPos = 0
     var mealPlanObj = [String:String]()
-    var titleArray = ["Breakfast", "A.M. Snack", "Lunch", "P.M. Snack", "Dinner", "Daily Totals"]
+    var titleArray = ["Kahvaltı", "Atıştırmalık", "Öğlen", "Atıştırmalık", "Akşam", "Toplam"]
     var subTitleArray = [String]()
     var titleHeader = ""
     
@@ -20,7 +20,7 @@ class T1: UIViewController, UITableViewDataSource, UITableViewDelegate {
 
         dataTableView.separatorStyle = .none
         
-        subTitleArray = [mealPlanObj["Breakfast"]!, mealPlanObj["A.M. Snack"]!, mealPlanObj["Lunch"]!, mealPlanObj["P.M. Snack"]!, mealPlanObj["Dinner"]!, mealPlanObj["Daily Totals"]!]
+        subTitleArray = [mealPlanObj["Kahvaltı"]!, mealPlanObj["Atıştırmalık"]!, mealPlanObj["Öğlen"]!, mealPlanObj["Atıştırmalık"]!, mealPlanObj["Akşam"]!, mealPlanObj["Toplam"]!]
         
         for i in 0...titleArray.count - 1 {
             setHeightForCell(textTitle: titleArray[i], textSubTitle: subTitleArray[i])
