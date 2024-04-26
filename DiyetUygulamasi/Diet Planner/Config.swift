@@ -53,7 +53,7 @@ func getJSONFileName(categoryIndex: Int, subCategoryIndex: Int) -> String {
         jsonFile = ""
         break
     }
-    //print(jsonFile)
+   
     return jsonFile
 }
 
