@@ -1,0 +1,60 @@
+{ "data" :
+    [
+        {
+            "Breakfast":"1 serving Egg Salad Avocado Toast, 3/4 cup blackberries",
+            "A.M. Snack":" ½ cup plain nonfat Greek yogurt, ½ cup frozen blueberries, 1 Tbsp. chia seeds, Top yogurt with berries and chia seeds.",
+            "Lunch":"1 servingGarden Fresh Quinoa, 1 oz. crumbled feta cheese, ½ cup cherry tomatoes, 3 Tbsp. slivered almonds, Top quinoa with feta, tomatoes and almonds.",
+            "P.M. Snack":"½ cup raspberries",
+            "Dinner":"1 serving Simple Grilled Salmon & Vegetables, 1 serving Garden Fresh Quinoa",
+            "Daily Totals": "1,179 calories, 76 g protein, 105 g carbohydrate, 30 g fiber, 55 g fat, 1,083 mg sodium"
+        },
+        {
+            "Breakfast":"1 slice whole-grain bread, 3 Tbsp. hummus, Pinch each of crushed red pepper and kosher salt, 3/4 cup raspberries, Spread hummus on toast; sprinkle with crushed red pepper and salt. Serve with raspberries.",
+            "A.M. Snack":"½ cup sliced cucumbers with a pinch of salt",
+            "Lunch":"1 serving Spring Green Salad with Hard-Boiled Eggs",
+            "P.M. Snack":"2/3 cup blackberries",
+            "Dinner":"1 serving Chicken & Asparagus Skillet Pasta with Pesto",
+            "Daily Totals": "1,236 calories, 61 g protein, 114 g carbohydrate, 29 g fiber, 62 g fat, 1,752 mg sodium"
+        },
+        {
+            "Breakfast":"1 serving Creamy Blueberry-Pecan Overnight Oatmeal",
+            "A.M. Snack":"½ cup nonfat Greek yogurt, 3 Tbsp. frozen blueberries",
+            "Lunch":"1 serving Spring Green Salad with Hard-Boiled Eggs",
+            "P.M. Snack":"½ cup cucumbers, sliced, Pinch each of salt and pepper",
+            "Dinner":"1 serving Cilantro Bean Burgers with Creamy Avocado-Lime Slaw",
+            "Daily Totals": "1,222 calories, 56 g protein, 145 g carbohydrate, 29 g fiber, 50 g fat, 1,867 mg sodium"
+        },
+        {
+            "Breakfast":"1 serving Creamy Blueberry-Pecan Overnight Oatmeal",
+            "A.M. Snack":"1 bell pepper, sliced",
+            "Lunch":"1 serving Spring Green Salad with Hard-Boiled Eggs",
+            "P.M. Snack":"1 cup raspberries",
+            "Dinner":"1 serving Citrus Poached Salmon with Asparagus, 2/3 cup cooked quinoa",
+            "Daily Totals": "1,219 calories, 60 g protein, 132 g carbohydrate, 27 g fiber, 51 g fat, 1,204 mg sodium"
+        },
+        {
+            "Breakfast":"1 cup plain nonfat Greek yogurt, ½ cup frozen berries, 1 Tbsp. chia seeds, Top yogurt with berries and chia seeds",
+            "A.M. Snack":"1 cup raspberries",
+            "Lunch":"1 serving Spring Green Salad with Hard-Boiled Eggs",
+            "P.M. Snack":"3/4 cup sliced cucumber, 3 Tbsp. hummus",
+            "Dinner":"1 serving Hawaiian Pork",
+            "Daily Totals": "1,223 calories, 78 g protein, 120 g carbohydrate, 27 g fiber, 59 g fat, 1,623 mg sodium"
+        },
+        {
+            "Breakfast":"1 serving Creamy Blueberry-Pecan Overnight Oatmeal",
+            "A.M. Snack":"½ cup sliced cucumber with a pinch of salt and pepper",
+            "Lunch":"1 serving Green Salad with Edamame & Beets",
+            "P.M. Snack":"2/3 cup raspberries",
+            "Dinner":"1 serving Mediterranean Chicken with Orzo Salad",
+            "Daily Totals": "1,188 calories, 61 g protein, 118 g carbohydrate, 30 g fiber, 42 g fat, 1,509 mg sodium"
+        },
+        {
+            "Breakfast":"1 serving Spinach & Egg Scramble with Raspberries",
+            "A.M. Snack":"1 serving Veggie & Hummus Sandwich",
+            "Lunch":"1 serving Veggie & Hummus Sandwich",
+            "P.M. Snack":"15 unsalted almonds",
+            "Dinner":"1 serving Grilled Asparagus & Shrimp with Pasta",
+            "Daily Totals": "1,203 calories, 68 g protein, 120 g carbohydrate, 31 g fiber, 54 g fat, 1,188 mg sodium"
+        }
+    ]
+}
